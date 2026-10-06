@@ -39,7 +39,7 @@ since 2024-ish · still vibin
 | Repo | What |
 |---|---|
 | **[gspace](https://github.com/jaded423/gsuite)** | In-house Google Workspace MCP — 38 tools, 101 tests, declarative Gmail rule engine. |
-| **[nvimConfig](https://github.com/jaded423/nvimConfig)** | Modern Neovim — Dracula on pitch black, Colemak-DH langmap, LSP, blink.cmp, snek dashboard. |
+| **[nvimConfig](https://github.com/jaded423/nvimConfig)** | Modern Neovim — Dracula on pitch black, j/k swapped for Colemak-DH, LSP, blink.cmp, snek dashboard. |
 | **[homeLab](https://github.com/jaded423/homeLab)** | Two-node Proxmox cluster + Pi-hole + Twingate zero-trust + Tailscale mesh + local LLM stack. |
 | **[terminalConfig](https://github.com/jaded423/terminalConfig)** | Paired tmux + sesh config. C-Space prefix, Catppuccin Mocha, vim-tmux-navigator. |
 | **[photoEditor](https://github.com/jaded423/photoEditor)** | macOS Tkinter batch photo processor — rembg background removal, auto-resize, webhook export. |
